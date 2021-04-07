@@ -1,0 +1,18 @@
+.person {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+  background-color: #8c4f2b;
+  padding: 20px;
+  font-family: cursive;
+  margin: 10px 15px;
+}
+
+.person h2 {
+  color: #ffffff;
+}
+
+.person p {
+  font-size: 19px;
+  color: yellow;
+}

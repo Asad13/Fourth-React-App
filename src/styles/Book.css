@@ -1,0 +1,35 @@
+.book {
+  width: 400px;
+  background-color: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 8px 32px 0 rgba(81, 96, 140, 0.37);
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  border-radius: 10px;
+  text-align: center;
+  padding: 7px 20px;
+  font-family: cursive;
+  margin: 15px auto;
+  color: #ffffff;
+}
+
+.book p {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+/* Color Theme Swatches in RGBA */
+.Travel-1-rgba {
+  color: rgba(81, 96, 140, 1);
+}
+.Travel-2-rgba {
+  color: rgba(134, 151, 165, 1);
+}
+.Travel-3-rgba {
+  color: rgba(190, 204, 216, 1);
+}
+.Travel-4-rgba {
+  color: rgba(191, 135, 86, 1);
+}
+.Travel-5-rgba {
+  color: rgba(140, 78, 43, 1);
+}
