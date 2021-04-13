@@ -1,4 +1,4 @@
-import '../styles/Person.css';
+import '../../styles/Person.css';
 
 function Person(props) {
     return (
